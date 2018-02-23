@@ -1,3 +1,0 @@
-O código está num repositório separado que pode ser acessado no link:
-
-https://github.com/LeonardoSirino/CylindricalLocation
