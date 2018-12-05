@@ -1,0 +1,7 @@
+Canal1 - 99, 97, 98
+Canal2 - 94, 94, 93
+Canal3 - 96, 98, 97
+Canal7 - 92, 90, 90
+canal8 - 95, 95, 96
+
+Demais canais - Hits acima de 80 dB durante a verificacao dos canais acima
